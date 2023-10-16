@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h1 className="text-red-400">Hello World</h1>
-      <Button className="bg-gray-400" variant="contained">
+      <Button className="bg-my-blue-dark" variant="contained">
         Button
       </Button>
     </div>
